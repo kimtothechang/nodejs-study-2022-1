@@ -1,0 +1,23 @@
+{
+  "name": "package-example1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimtothechang/nodejs-study-2022-1.git"
+  },
+  "author": "chango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimtothechang/nodejs-study-2022-1/issues"
+  },
+  "homepage": "https://github.com/kimtothechang/nodejs-study-2022-1#readme",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}
